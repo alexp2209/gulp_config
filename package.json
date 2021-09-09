@@ -33,6 +33,7 @@
   ],
   "dependencies": {
     "index.js": "0.0.3",
+    "jshint": "^2.13.1",
     "nvmjs": "0.0.2"
   },
   "scripts": {
