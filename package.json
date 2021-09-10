@@ -37,7 +37,8 @@
     "nvmjs": "0.0.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "npx gulp"
   },
   "author": "alexp",
   "license": "ISC",
